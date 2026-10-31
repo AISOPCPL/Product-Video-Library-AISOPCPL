@@ -332,12 +332,74 @@ const VIDEOS = [
     category: "Sanitary / Water Fixtures",
     level: "Advanced",
   },
-//   {
-//     title: "Your Moment of CERA | Official Brand Film",
-//     url: "https://www.youtube.com/@CeraSanitarywareCera_India",
-//     category: "Sanitary / Water Fixtures",
-//     level: "Beginner",
-//   },
+  {
+  title: "Asahi India Glass Ltd. - Glass Partition Installation",
+  url: "https://youtube.com/playlist?list=PLhK2sr6Vk-L9BkhKNJOBi0frO5EzyE_em&si=Awq1SRKYQgjoD-_O",
+  category: "Glass Partition",
+  level: "Advanced",
+},
+{
+  title: "CGP - Installation Glass Partition System",
+  url: "https://www.youtube.com/watch?v=1ZPpmsHWMXY",
+  category: "Glass Partition",
+  level: "Advanced",
+},
+{
+  title: "CGP's Installation Video Guide - Glass Conference Room",
+  url: "https://www.youtube.com/watch?v=0YgNEXbkPfo",
+  category: "Glass Partition",
+  level: "Advanced",
+},
+{
+  title: "How To - Install KOMPAS Aluminum and Glass Partition by Crystalia Glass",
+  url: "https://www.youtube.com/watch?v=xmgy-OBf3S8&list=PLmegj89G5H4YVI2VT0f4ThTuJfmxjupU6",
+  category: "Glass Partition",
+  level: "Advanced",
+},
+{
+  title: "How to Install TREVI Steel Partition with Double Swing Doors",
+  url: "https://www.youtube.com/watch?v=8fWo7ruy04s",
+  category: "Glass Partition",
+  level: "Advanced",
+},
+{
+  title: "CLIP-IN Installation EN - GLASSOLUTIONS Saint-Gobain",
+  url: "https://www.youtube.com/watch?v=8fWo7ruy04s",
+  category: "Glass Partition",
+  level: "Advanced",
+},
+
+{
+  title: "RB 500 Manual Roller Shade with Standard Duty + Brackets - Inside Mount",
+  url: "https://vimeo.com/352506490?fl=pl&fe=vl",
+  category: "Blinds",
+  level: "Intermediate",
+},
+{
+  title: "RB 500 Manual Roller Shade with Standard Duty+ Brackets - Outside Mount",
+  url: "https://vimeo.com/352506733?fl=pl&fe=vl",
+  category: "Blinds",
+  level: "Intermediate",
+},
+{
+  title: "RB 500+ Manual Roller Shade with Heavy Duty Brackets - Inside Mount",
+  url: "https://vimeo.com/349733081?fl=pl&fe=vl",
+  category: "Blinds",
+  level: "Intermediate",
+},
+{
+  title: "RB 500 Manual Roller Shade with Standard Duty+ Clutch and Brackets and 3-inch Fascia - Inside Mount",
+  url: "https://vimeo.com/352506985?fl=pl&fe=vl",
+  category: "Blinds",
+  level: "Advanced",
+},
+{
+  title: "RB 500 Manual Roller Shade with Heavy Duty+ Clutch and Brackets and 4-inch Fascia - Outside Mount",
+  url: "https://vimeo.com/350218172?fl=pl&fe=vl",
+  category: "Blinds",
+  level: "Advanced",
+},
+
 ];
 
 
